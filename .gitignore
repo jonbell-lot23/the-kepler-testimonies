@@ -150,3 +150,4 @@ vite.config.ts.timestamp-*
 .claude/.claude.json.backup
 .claude/.credentials.json
 .claude/settings.json
+.claude/session-env
