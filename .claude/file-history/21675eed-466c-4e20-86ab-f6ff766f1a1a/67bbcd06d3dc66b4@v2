@@ -12,8 +12,8 @@
 - Community participation channels (GitHub Discussions)
 - Concept brainstorm with voting options ([concept-brainstorm-2026-01-01.md](../story/concept-brainstorm-2026-01-01.md))
 - **Active polls:**
-  - [What is the Kepler?](https://github.com/jwynia/the-kepler-testimonies/discussions/9)
-  - [What makes 12 testimonies impossible?](https://github.com/jwynia/the-kepler-testimonies/discussions/8)
+  - [Vote: What is the Kepler?](https://github.com/jwynia/the-kepler-testimonies/discussions/6)
+  - [Vote: What makes 12 testimonies impossible?](https://github.com/jwynia/the-kepler-testimonies/discussions/7)
 
 ## What's Next
 1. ~~Post voting options to GitHub Discussions~~ Done
@@ -23,7 +23,7 @@
 ## Recent Activity
 
 ### 2026-01-02
-- **Polls created via web UI** - GitHub Discussions polls require manual creation through the web interface (API doesn't support poll options); original emoji-reaction polls and API-created discussions closed
+- **Polls recreated with native format** - original polls used unavailable emoji reactions; replaced with GitHub's native clickable poll feature
 - **Voting format established** - all polls include "none of these" with space for suggestions
 - **Cliché transcendence completed** - all moderate-risk options freshened
   - "Embassy" → "Failed Mission" (decommissioning crew, contact arrives while closing)
