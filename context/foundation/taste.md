@@ -42,7 +42,7 @@ Pay special attention to forced tradeoffs ("We do X, not Y"). Those are project-
 
 ## Individual Taste Entries
 
-### jwynia (Project Director)
+### Jon (Founding Member)
 
 **Authors/Works I Love**:
 - Robert Heinlein: *Stranger in a Strange Land*, *The Moon is a Harsh Mistress* - Ideas matter, characters grapple with them
@@ -63,12 +63,16 @@ Pay special attention to forced tradeoffs ("We do X, not Y"). Those are project-
 - Cynicism as cleverness
 
 **BIGGEST PET PEEVE** (cannot stress this enough):
-Clean good vs. evil where every corporation is corrupt, every government is dumb, and some lone hero hacker is the only one who can see through the bullshit. I HATE this. Show me actual people in actual institutions. Politicians can be competent AND wrong. Corporations have genuine internal conflicts. Government can work AND still fail people. Show me how power actually flows, not cartoon versions of it.
+The lazy shorthand where government is always dumb, all corporations are inherently corrupt, and only lone hero hackers see through the bullshit. This frustrates me because it's not *wrong* exactly—institutions absolutely can fail people, decisions go bad, systems break. But it's shorthand that *prevents* real understanding.
+
+Real understanding means: government works in most ways most of the time, AND it still fails people. Corporations have people in them with conflicting interests and genuine constraints, AND they make terrible decisions. People within systems often understand the problems better than outsiders, AND they're constrained by incentive structures that make change hard.
+
+Show me that complexity. Show me how power actually flows through institutions—what information people have, what incentives they face, what constraints bind them. That's more interesting and more true than the cartoon version.
 
 **For This Project**:
 - Testimonies should feel like they come from real people with real lives
 - Impossibility should be earned, not arbitrary
-- If there's conspiracy, show me how it actually works—what incentives, what information, what constraints
+- If there's conspiracy, show me how it actually works—what incentives, what information, what constraints, who knows what and why
 - Competence matters more than cynicism
 
 ---
