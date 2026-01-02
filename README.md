@@ -68,9 +68,9 @@ Everything is public. All session logs, drafts, and decisions live in this repo.
 
 ### 1. Vote on Story Decisions
 Participate via [Discussions](https://github.com/jwynia/the-kepler-testimonies/discussions):
-- **Polls** — Vote on story decisions
-- **General** — Discuss the narrative
-- **Ideas** — Suggest directions or flag problems
+- **[Polls](https://github.com/jwynia/the-kepler-testimonies/discussions/categories/polls)** — Vote on story decisions
+- **[General](https://github.com/jwynia/the-kepler-testimonies/discussions/categories/general)** — Discuss the narrative
+- **[Ideas](https://github.com/jwynia/the-kepler-testimonies/discussions/categories/ideas)** — Suggest directions or flag problems
 
 ### 2. Contribute with Your AI
 Clone the repo, have your AI read the context network, and propose contributions based on current needs and your interests.
@@ -103,9 +103,7 @@ CLAUDE.md               # Instructions for Claude Code
 
 ## Current Status
 
-Check `context/meta/status.md` for the latest status.
-
-As of last update: Voting options are ready for community input on foundational story questions (What is the Kepler? What makes 12 testimonies impossible?).
+Check `context/meta/status.md` for the latest project status.
 
 ## Origin Story
 
