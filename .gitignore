@@ -151,3 +151,5 @@ vite.config.ts.timestamp-*
 .claude/.credentials.json
 .claude/settings.json
 .claude/session-env
+
+.DS_Store

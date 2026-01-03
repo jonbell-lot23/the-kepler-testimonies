@@ -13,11 +13,16 @@ Core project information that rarely changes.
 - [The Premise](foundation/premise.md) - The winning story concept
 - [Workflow](foundation/workflow.md) - How AI+human collaboration works
 - [GitHub Workflow](foundation/github-workflow.md) - Technical GitHub process (branches, PRs, issues)
+- [Outline Workflow](foundation/outline-workflow.md) - Story development structure and issue tracking
 
 ### Story Development
 All story-related planning and development.
 
 - [Story Index](story/index.md) - Central hub for story development
+  - [Meta](story/meta/_index.md) - Tagline, premise, synopsis
+  - [Outline](story/outline/_index.md) - Structure, backlog, issues
+  - [Elements](story/elements/_index.md) - Characters, places, organizations, objects
+  - [Craft](story/craft/_index.md) - Voice decisions, writing choices
 
 ### Community
 How the public participates in directing the story.
