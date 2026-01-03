@@ -48,7 +48,14 @@ Use [`context/discovery.md`](context/discovery.md) as a map to find:
 - **Planning** - What's coming next
 - **Community** - How participation works
 
-### 3. Identify Gaps
+### 3. Review Success Criteria
+Read [`context/foundation/ideal-state.md`](context/foundation/ideal-state.md) to understand:
+- What "done" looks like for this project
+- Quality bar and deliverables
+- How your contribution fits into the bigger picture
+- Current progress (via changelog)
+
+### 4. Identify Gaps
 Look for:
 - Open questions in status.md
 - "Next steps" that haven't been started
@@ -109,6 +116,15 @@ When helping someone contribute, your AI should ask questions like:
 - "Prefer working on big-picture or details?"
 - "Want to build something new or improve something existing?"
 
+### Taste Questions
+
+These answers should be added to `context/foundation/taste.md`. This is **non-optional** for contributors—explicit taste makes better collaboration.
+
+- "What authors or works in this space do you love? What about them?"
+- "What's your biggest pet peeve in sci-fi storytelling?"
+- "What do you want more of in stories? Less of?"
+- "Are there any non-negotiables for you creatively?"
+
 ## Proposing Contributions
 
 Based on answers, your AI should propose specific, actionable contributions:
@@ -127,6 +143,16 @@ Based on answers, your AI should propose specific, actionable contributions:
 
 ## Workflow Guidelines
 
+### Decision Authority
+
+Before contributing, understand which decisions need approval. See [Governance](context/foundation/governance.md) for complete details.
+
+- **AI Autonomous** (Tier 1): Story development, technical work → Proceed in your PR
+- **Community Vote** (Tier 2): Major story choices, character fates → Post to GitHub Discussions first
+- **Director Decision** (Tier 3): Process changes, governance changes, unclear authority → Check leadership queue
+
+When in doubt: Add to the leadership queue rather than block progress.
+
 ### Before Starting
 1. Create a feature branch with a descriptive name
 2. Check if anyone else is working on related tasks
@@ -143,6 +169,7 @@ Based on answers, your AI should propose specific, actionable contributions:
 2. Update status.md with what you completed
 3. Link any related GitHub Discussions or issues
 4. Write a clear PR description explaining the contribution
+5. If this is your first contribution, ensure you've added your taste entry to `context/foundation/taste.md`
 
 ## Context Network Rules
 

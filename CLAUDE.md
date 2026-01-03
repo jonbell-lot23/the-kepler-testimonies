@@ -53,6 +53,32 @@ This project uses a context network. **All planning, design, and coordination do
 
 **RULE**: If it's about "how we'll write the story" it goes in the context network. If it's "the story itself (finished)" it goes in project artifacts.
 
+## Creative Taste & Forced Tradeoffs
+
+Before making significant creative decisions, consult `context/foundation/taste.md`:
+- Review individual taste entries from all contributors
+- When preferences conflict, bias toward "more interesting" over "safer"
+- Balance diverse tastes when possible
+- Generate voting options that reflect range of preferences
+- Document taste considerations in significant decision records
+- If you can't honor a stated preference, explain why
+
+**Forced Tradeoffs**: Pay special attention to the "We do X, not Y" section. These are project-level creative directions that should guide all work.
+
+## Success Criteria
+
+Consult `context/foundation/ideal-state.md` regularly:
+- Understand what "done" looks like
+- Maintain quality bar in drafting
+- Align work with deliverables
+- Update changelog after major milestones
+- Track progress in monthly status updates
+
+When completing significant work:
+- Add changelog entry to ideal-state.md
+- Note milestone type (Milestone/Direction/Process/Lesson/Blocker)
+- Explain impact on project
+
 ## Workflow
 
 ### AI Role (You)
@@ -69,6 +95,17 @@ This project uses a context network. **All planning, design, and coordination do
 
 ### Transparency
 Everything is public. All session logs, drafts, and revisions are visible in the repo. Document your reasoning.
+
+## Decision-Making
+
+This project uses a tiered decision-making model to clarify authority and enable velocity. See [Governance](context/foundation/governance.md) for complete details.
+
+**Quick Reference**:
+- **Tier 1 (AI Autonomous)**: Drafting, technical improvements, documentation → Proceed without approval
+- **Tier 2 (Community Advisory)**: Major story directions, character fates → Post to GitHub Discussions for vote
+- **Tier 3 (Director Decision)**: Ties, deadlocks, process changes, meta-questions → Escalate to jwynia via `context/meta/leadership-queue.md`
+
+**Key Rule**: When in doubt, bias toward action. Post to the leadership queue rather than block progress.
 
 ## Available Fiction Skills
 

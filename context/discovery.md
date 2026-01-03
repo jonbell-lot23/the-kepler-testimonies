@@ -12,6 +12,9 @@ Core project information that rarely changes.
 - [Project Definition](foundation/project.md) - What this project is and why it exists
 - [The Premise](foundation/premise.md) - The winning story concept
 - [Workflow](foundation/workflow.md) - How AI+human collaboration works
+- [Governance](foundation/governance.md) - Decision-making framework and authority structure
+- [Creative Taste](foundation/taste.md) - Individual preferences and aesthetic direction
+- [Ideal State](foundation/ideal-state.md) - Success criteria and project goals
 - [GitHub Workflow](foundation/github-workflow.md) - Technical GitHub process (branches, PRs, issues)
 - [Outline Workflow](foundation/outline-workflow.md) - Story development structure and issue tracking
 
