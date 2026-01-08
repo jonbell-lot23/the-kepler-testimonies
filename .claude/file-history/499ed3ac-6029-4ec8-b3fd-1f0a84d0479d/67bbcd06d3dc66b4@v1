@@ -13,42 +13,30 @@
 - Community participation channels (GitHub Discussions)
 - Foundation documents for creative taste and success criteria
 - Concept brainstorm with voting options ([concept-brainstorm-2026-01-01.md](../story/concept-brainstorm-2026-01-01.md))
-- **Foundation decisions resolved:**
-  - **Vessel Type**: The Stopover (deep-space waystation)
-  - **Impossibility Type**: The Agreement Problem (mundane details that can't all be true)
-  - **Structure**: Investigation-driven narrative (NOT testimony catalog)
-  - **Investigator Arc**: Bureaucratic assignment → personal connection → evidence won't fit → institutional pressure
+- **Active polls:**
+  - [What is the Kepler?](https://github.com/jwynia/the-kepler-testimonies/discussions/9)
+  - [What makes 12 testimonies impossible?](https://github.com/jwynia/the-kepler-testimonies/discussions/8)
 
 ## What's Next
-1. ~~Community votes on Kepler type + impossibility mechanism~~ Resolved (tied votes, Director decision)
-2. Develop investigator character and their arc
-3. Design how testimonies integrate into investigation structure
-4. Begin outline development
+1. ~~Post voting options to GitHub Discussions~~ Done
+2. Director Decision: Should we start AI drafting before community votes conclude? (See leadership-queue.md)
+3. Community votes on Kepler type + impossibility mechanism
+4. Begin outline development with winning combination
 
 ## Decision Status
 
-### Open Questions for Outline Development
-- **Who is the investigator?** Role, agency, disposition
-- **What's the personal connection?** Who was aboard that matters to them
-- **What's the institution?** What agency, what cover story, why suppress
-- **What's the ending?** Comply, expose, disappear, or something else
-- **The Kepler station**: Location, how long ago, what "vanished" means
+### Awaiting Community Vote
+- **Discussion #8**: What is the Kepler? (options: Failed Mission, Lifeboat, Stopover)
+- **Discussion #9**: What makes 12 testimonies impossible? (options: Absent Witnesses, Document Anomaly, Agreement Problem)
+
+### Awaiting Director Decision
+- **Should we start AI drafting before community votes conclude?** → See `context/meta/leadership-queue.md` for full context and options
 
 ### Recently Resolved
-- **Decision 003**: Foundation choices → Stopover + Agreement Problem + Investigation structure (Director decision, tie-breaker)
-- **Decision 002**: Governance adoption → Formal governance framework implemented
 - **Decision 001**: Premise selection → THE KEPLER TESTIMONIES selected
+- **Decision 002**: Governance adoption → Formal governance framework implemented
 
 ## Recent Activity
-
-### 2026-01-08
-- **Foundation decisions resolved** - Director decision broke tied community votes
-  - Vessel: The Stopover (waystation on transit route)
-  - Impossibility: The Agreement Problem (mundane details inconsistent)
-  - Structure: Investigation-driven (protagonist investigator, not testimony catalog)
-  - Arc: Four phases (assignment → personal connection → evidence won't fit → pressure)
-- Decision record created: [003-foundation-choices.md](../decisions/003-foundation-choices.md)
-- Ready for outline development
 
 ### 2026-01-03
 - **Outline structure implemented** - Adopted organizational system from another project
@@ -93,11 +81,7 @@
 None currently.
 
 ## Open Questions
-- ~~What is the Kepler?~~ → **RESOLVED**: The Stopover (waystation)
-- ~~What makes 12 testimonies "impossible"?~~ → **RESOLVED**: The Agreement Problem (mundane inconsistencies)
-- ~~How to structure 500 testimonies for reading/presentation?~~ → **RESOLVED**: Investigation-driven narrative
-- Who is the investigator? (role, agency, disposition)
-- What's the personal connection? (who was aboard that matters to them)
-- What's the institution? (what agency, what cover story, why suppress)
-- What's the ending? (comply, expose, disappear, or something else)
-- What does "vanished" mean exactly? How long ago? Did it reappear?
+- How to structure 500 testimonies for reading/presentation?
+- ~~What is the Kepler?~~ → **Options ready for vote** (Failed Mission, Lifeboat, Stopover)
+- ~~What makes 12 testimonies "impossible"?~~ → **Options ready for vote** (Absent Witnesses, Document Anomaly, Agreement Problem)
+- Who collected these testimonies and why? (depends on Kepler choice)
