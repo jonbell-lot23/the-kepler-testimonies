@@ -1,68 +1,85 @@
 # The Kepler Testimonies: Storyboard
 
-This document uses the **snowflake method**—each level expands the previous with more detail. Levels 0-2 are pre-populated from locked foundation decisions. Level 3+ will be developed through skill-assisted iteration.
+This document uses the **snowflake method**—each level expands the previous with more detail. Developed through skill-assisted iteration (brainstorming, cliché-transcendence, orthogonality analysis).
 
 ---
 
 ## Level 0: One-Sentence Summary
 
-An investigator assigned to close the file on a vanished waystation discovers that 12 of the 500 collected testimonies contain mundane details that cannot all be true—and that powerful interests want this buried.
+A late-career claims adjuster assigned to reconcile conflicting agency files on a long-closed waystation incident discovers that the discrepancies aren't clerical errors—reality itself was inconsistent—and closes the file anyway.
 
 ---
 
 ## Level 1: One-Paragraph Summary
 
-A bureaucratic investigator receives a routine assignment: write the final report on the Kepler Stopover incident, a deep-space waystation that vanished with 500 people aboard and reappeared (or was found) some time later. All 500 gave testimonies. 488 are ordinary—travelers, staff, cargo haulers describing a routine day interrupted. But as the investigator works through them, they discover someone aboard they knew personally, transforming the assignment into something they can't just sign off on. Digging deeper, they find 12 testimonies that describe trivial details impossibly: clocks showing different times to different observers, hallways measuring different lengths with architectural plans confirming both, the same repair logged in two locations with physical evidence in each. The contradictions are undeniable, but the investigator's institution—whatever agency owns this file—pushes for a cover story. The investigator must decide: comply with the comfortable lie, expose the impossible truth, or disappear into the mystery themselves.
+Years after the Kepler Stopover incident was "closed," a late-career adjuster is assigned to reconcile the files. Multiple agencies—insurance, station authority, transit regulation, labor board—each closed the case differently. Nobody expects new findings; the job is to align paperwork across jurisdictions so everything can be archived before a merger consumes the department. But comparing the agencies' flagged testimonies reveals something stranger than bureaucratic disagreement: twelve testimonies describe mundane details that can't all be true—clocks showing different times simultaneously, hallways measuring different lengths with plans confirming both. The discrepancies aren't errors. Reality was inconsistent. The adjuster—someone who has never needed existential closure, who has spent a career writing reports that make messy things fit—does what they've always done: writes what can be written, leaves out what can't, closes the file, and goes home. The strangeness is that they're not transformed. They just... continue.
 
 ---
 
 ## Level 2: Page Summary
 
-### Beat 1: The Assignment
+### Beat 1: The Reconciliation Assignment
 
-The investigator works for an agency that handles incident closure—insurance, liability, regulatory sign-off, something institutional and unglamorous. The Kepler Stopover case lands on their desk not because it's important, but because it's been sitting too long. Someone needs to stamp it closed. The file is thick: 500 testimonies, station logs, forensic reports, insurance claims. The investigator is competent, experienced, and initially treats this as paperwork. The Kepler was a deep-space waystation—a refueling depot on a transit route. Not a research vessel, not a colony ship. Just infrastructure. The people aboard were random: travelers, station staff, families in transit, cargo haulers on layover. They vanished. They came back (or were found). Everyone gave testimony. Case should be straightforward.
+The Kepler Stopover incident was closed years ago—by multiple agencies, each differently. Insurance paid certain claims and denied others. The station authority issued a report. Transit regulation filed their own findings. The labor board documented worker testimonies separately. Now, with a departmental merger looming, someone needs to reconcile these files so they can be archived together. The adjuster—late-career, mixed record, counting months to retirement—gets the job because it's supposed to be easy. A reconciliation audit. Compare documents. Note discrepancies. Recommend a unified archive format. Nobody expects them to investigate anything. They're just supposed to make the paperwork match.
 
-### Beat 2: The Personal Connection
+The adjuster is competent but not exceptional. They've handled difficult cases before—fraud they missed, claims they shouldn't have paid. They're not the best closer in the department; they're just available. The Kepler files are thick, tedious, and everyone else is focused on the merger chaos. This is a backwater assignment for someone already on their way out.
 
-Working through testimonies, the investigator encounters a name they recognize. Someone they knew—a friend, a family member, a former colleague, an ex-partner, someone significant. This person was aboard the Kepler. Their testimony is in the file. Reading it changes the assignment's weight. This isn't just paperwork anymore. The investigator starts reading more carefully, looking for details about this person's experience, how they ended up at the Stopover, what they witnessed. The testimonies become people, not data. The investigator begins cross-referencing, building timelines, mapping who was where. Patterns emerge that don't quite fit.
+### Beat 2: The Uncomfortable Recognition
 
-### Beat 3: The Agreement Problem Emerges
+Working through witness lists, the adjuster encounters a name they recognize. Not someone they loved—someone they knew once and didn't particularly like. A distant connection. A neighbor's ex-husband, maybe. A former colleague from a job they'd rather forget. Someone they'd recognize at a grocery store but wouldn't invite to dinner.
 
-Initially, small discrepancies look like transcription errors or memory failures. Normal stuff—witnesses disagree about details all the time. But these don't resolve. The investigator finds Testimony #34 stating coffee was served at 0700, Testimony #35 stating 0702, both witnesses looking at the same clock, both certain. Cross-reference shows both were truthful—the clock showed different times simultaneously. A hallway measures 12 meters in some testimonies, 15 in others. Architectural plans confirm both measurements. A maintenance log records a repair at Bay 7; another records the same repair at Bay 9. Physical evidence exists in both locations.
+They read this person's testimony. It's ordinary—a traveler describing a routine layover interrupted by whatever happened. But the adjuster can hear their voice in the words. This was a real person. They remember their laugh, their annoying habits, the last awkward conversation they had.
 
-Twelve testimonies contain details like this. Not dramatic contradictions—mundane ones. Coffee times, hallway lengths, repair locations. Reality was inconsistent at the level of minutiae. The investigator can't explain it. More troubling: these testimonies are otherwise completely credible. The witnesses aren't confused or unreliable. They're describing exactly what they experienced. And what they experienced was impossible.
+It shouldn't matter. It's not grief. It's not love. But the adjuster finds themselves reading more carefully now. Cross-referencing. Building timelines. Looking for this person's name in other documents. The testimonies become people, not data.
 
-### Beat 4: Institutional Pressure
+### Beat 3: The Discrepancy Pattern
 
-The investigator's superiors notice they're taking too long on a routine close-out. Questions arise. The investigator raises the discrepancies; they're told to note them as data collection errors and move on. This is standard—acknowledge anomalies, attribute to mundane causes, close the file. But the investigator has seen the physical evidence. They know these aren't errors. Someone above them knows too, or suspects. The pressure to sign off increases. A cover story is suggested—something about instrument calibration, testimony contamination, the usual bureaucratic smoothing. The institution doesn't want impossible conclusions in a final report. Impossible conclusions create liability, scrutiny, questions nobody wants answered.
+Comparing flagged testimonies across agencies, the adjuster notices something odd. Each agency flagged different testimonies as problematic. Insurance flagged four. Regulatory flagged five. Station authority flagged three. There's some overlap, but not complete. The total is twelve, but the *reasons* for flagging don't match.
 
-### Beat 5: The Choice (Resolution Open)
+Looking closer, the discrepancies aren't clerical. Testimony #34 says coffee was served at 0700. Testimony #35 says 0702. Both witnesses were looking at the same clock. Both were certain. Cross-referencing physical evidence shows both times are somehow verified—the clock showed different times to different observers, simultaneously.
 
-The investigator faces a fork:
+A hallway measures 12 meters in some testimonies, 15 in others. Architectural plans confirm both measurements. A maintenance log records a repair at Bay 7; another log records the same repair at Bay 9. Physical evidence exists in both locations.
 
-- **Comply**: Sign the cover story, close the file, move on. Career survives. Truth dies in a filing cabinet.
-- **Expose**: Document everything, refuse to sign, blow the whistle. Career probably ends. Truth becomes public. Consequences unknown—for the investigator, for the institution, for what the truth means about reality.
-- **Disappear**: Go looking for answers themselves. Follow the threads the institution wants buried. Find out what really happened at the Kepler. Risk becoming the next case file someone has to close.
-- **Something else**: The ending remains open for development through community input and skill-assisted exploration.
+These aren't transcription errors. Reality was inconsistent at the level of coffee times and hallway lengths. The adjuster starts looking at the 488 "ordinary" testimonies and begins noticing smaller discrepancies that nobody else flagged...
+
+### Beat 4: The Quiet Non-Crisis
+
+The adjuster understands what they're seeing. They can't explain it, but they understand it: the Kepler's reality was somehow inconsistent. Multiple true things that can't all be true. The Agreement Problem, if they had to name it.
+
+Here's the thing: they don't need to explain it. They've never needed existential closure. Their job isn't to understand reality—it's to close files. They've spent decades writing reports that make messy, contradictory things fit into forms. This is just... bigger.
+
+Nobody at the department asks questions. Everyone's focused on the merger. The adjuster's supervisor glances at their reconciliation notes, sees "recommend archiving with discrepancy flags," and signs off. No pressure. No cover-up. Just institutional indifference to something that doesn't fit any protocol.
+
+The person they recognized—the one whose testimony they kept reading—is one of the twelve impossibles. Their account describes a hallway that measured both lengths. The adjuster knows this person wasn't lying. They know the testimony is accurate. They know it's impossible. They don't know what to do with that.
+
+### Beat 5: The Procedural Close
+
+The adjuster writes their reconciliation report. They note the discrepancies. They recommend archiving with flags for "unresolved witness variance." They don't explain. They don't expose. They don't disappear into the mystery. They just do the job.
+
+File boxed. Archive stamp. A nod from the archivist who's processed strange files before and doesn't ask questions. Walk to the car. Drive home.
+
+Dinner. Something stupid on TV. The Kepler was today. Tomorrow is something else.
+
+Maybe they'll think about it sometimes. Maybe it'll fade like old cases do. They carry no wisdom, no burden, no secret knowledge. They just closed a file that couldn't quite be closed, and life continued.
+
+The strangeness is that they're not transformed. The cosmic impossibility had no power over them. They're the same person they were before—someone who doesn't need answers, who has never needed answers, who just does the work and goes home.
 
 ---
 
 ## Level 3: Act Structure
 
-*To be developed using `/outline-collaborator`*
+Based on the deepened direction:
 
-Placeholder structure based on the 4-phase investigator arc:
-
-- **Act 1**: Assignment + Personal Connection discovered
-- **Act 2**: Agreement Problem investigation + accumulating impossibility
-- **Act 3**: Institutional pressure + forced choice
-- **Act 4**: Resolution (outcome TBD)
+- **Act 1: The Assignment** — Reconciliation audit lands on desk. Merger chaos. Backwater job. The uncomfortable recognition surfaces.
+- **Act 2: The Pattern** — Comparing agency files reveals the Agreement Problem. Discrepancies don't resolve. The 488 start showing cracks too.
+- **Act 3: The Non-Transformation** — The adjuster understands and doesn't need to act on it. No crisis. No pressure. Just quiet work.
+- **Act 4: The Close** — Procedural ending. File archived. Life continues. Anti-climax as the point.
 
 ---
 
 ## Level 4: Sequence Breakdown
 
-*To be developed after Act Structure is established*
+*To be developed after community feedback on direction*
 
 ---
 
@@ -72,24 +89,55 @@ Placeholder structure based on the 4-phase investigator arc:
 
 ---
 
+## Proposed Direction Summary
+
+This storyboard proposes a **deeply anti-genre** approach:
+
+| Element | Typical Mystery | This Story |
+|---------|----------------|------------|
+| Investigator | Driven seeker | Late-career, clearing desk |
+| Institution | Antagonist covering up | Indifferent, focused elsewhere |
+| Arc | Transformation through discovery | No transformation—same person after |
+| Personal connection | Lost loved one | Awkward acquaintance they didn't like |
+| Evidence | 12 curated clues | Fragmented agency flags, incomplete |
+| Ending | Revelation/choice/sacrifice | Procedural close, dinner, TV |
+
+**Why this works for the project:**
+- Honors "competent people facing real constraints" (taste preference)
+- Shows institutional complexity without cartoon villainy
+- The Agreement Problem lands through accumulation, not revelation
+- "All are true" paradox hits hardest when nobody can process it
+- Grounded, mundane horror of reality being wrong about coffee times
+
+---
+
 ## Open Questions for Development
 
-Carried forward from Decision 003:
+### Now Decided (Proposed)
+- **Investigator type**: Late-career adjuster, reconciliation audit specialist
+- **Institution stance**: Indifferent, not hostile—focused on merger
+- **Arc shape**: Anti-transformation; same person before and after
+- **Personal connection**: Distant, uncomfortable acquaintance
+- **Ending direction**: Procedural close, life continues
 
-1. **Investigator specifics**: Role, agency, disposition, name, background
-2. **Personal connection**: Who was aboard that matters to them? Relationship type?
-3. **The institution**: What agency? What's their stake in the cover-up? Why suppress?
-4. **Kepler specifics**: Location in space, how long ago it vanished, what "vanished" means exactly, how testimonies were collected
-5. **The ending**: Which resolution path, and what does it mean?
-6. **Testimony integration**: How are specific testimonies woven into the investigation narrative? Which of the 12 impossible ones appear as scenes?
+### Still Open
+1. **Investigator specifics**: Name, exact role, which agency
+2. **The merger**: What agencies are merging? Why does this create the reconciliation audit?
+3. **The uncomfortable acquaintance**: Who specifically? What was the relationship?
+4. **The archivist**: Character or just a moment? Do they know something?
+5. **Kepler specifics**: Location, how long ago, what "vanished" means exactly
+6. **Testimony integration**: Which of the 12 impossible testimonies appear as scenes vs. summary?
+7. **The 488**: What additional discrepancies does the adjuster find?
 
 ---
 
 ## Related Documents
 
-- [Decision 003: Foundation Choices](../../decisions/003-foundation-choices.md) - Locked decisions this storyboard builds from
-- [Concept Brainstorm](../concept-brainstorm-2026-01-01.md) - Original options and reasoning
-- [Taste Preferences](../../foundation/taste.md) - Creative direction to honor
+- [Decision 003: Foundation Choices](../../decisions/003-foundation-choices.md) - Locked foundation (Stopover, Agreement Problem, investigation structure)
+- [Plot Arc Brainstorm](../explorations/plot-arc-brainstorm-2026-01-12.md) - Original 5 divergent options
+- [Cliché Analysis](../explorations/plot-arc-cliche-analysis-2026-01-12.md) - Risk assessment and freshening
+- [Deepened Combination](../explorations/plot-arc-deepened-2026-01-12.md) - Orthogonality development
+- [Taste Preferences](../../foundation/taste.md) - Creative direction
 - [Ideal State](../../foundation/ideal-state.md) - Success criteria
 
 ---
@@ -97,3 +145,4 @@ Carried forward from Decision 003:
 ## Changelog
 
 - **2026-01-12**: Created with Levels 0-2 pre-populated from foundation decisions
+- **2026-01-12**: Revised with deepened direction after brainstorming → cliché analysis → orthogonality pass. Proposed anti-genre approach: late-career adjuster, reconciliation audit, no transformation, procedural close.
