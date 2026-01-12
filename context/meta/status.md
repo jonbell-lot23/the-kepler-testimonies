@@ -1,15 +1,18 @@
 # Current Project Status
 
 ## Last Updated
-2026-01-08
+2026-01-12
 
 ## State
-**Foundation Established** - Director decision resolved tied community votes. The Kepler is a waystation, impossibility is mundane agreement failures, structure is investigation-driven. Ready for outline development.
+**Outline Development In Progress** - Storyboard created with Levels 0-2 pre-populated from foundation decisions. Snowflake method adopted for iterative expansion. CLAUDE.md updated with automatic skill invocation for outline work.
 
 ## What Exists
 - Locked premise: "500 testimonies from a vanished ship. 488 are ordinary. 12 are impossible. All are true."
 - Project structure and context network
 - **Story development structure** - Full outline skeleton with meta, outline, elements, and craft sections
+- **Storyboard (Levels 0-2)** - High-level arc established ([storyboard.md](../story/outline/storyboard.md))
+- **Snowflake workflow** - Expansion process documented ([snowflake-workflow.md](../story/outline/snowflake-workflow.md))
+- **Automatic skill invocation** - CLAUDE.md configured for skill triggers during outline work
 - Community participation channels (GitHub Discussions)
 - Foundation documents for creative taste and success criteria
 - Concept brainstorm with voting options ([concept-brainstorm-2026-01-01.md](../story/concept-brainstorm-2026-01-01.md))
@@ -21,9 +24,11 @@
 
 ## What's Next
 1. ~~Community votes on Kepler type + impossibility mechanism~~ Resolved (tied votes, Director decision)
-2. Develop investigator character and their arc
-3. Design how testimonies integrate into investigation structure
-4. Begin outline development
+2. ~~Begin outline development~~ Storyboard L0-L2 complete
+3. **Expand storyboard to Level 3** (Act Structure) using `/outline-collaborator`
+4. Develop investigator character specifics (name, role, agency)
+5. Design testimony integration—which of the 12 impossible testimonies appear when
+6. Answer open questions: personal connection, institution, ending
 
 ## Decision Status
 
@@ -40,6 +45,19 @@
 - **Decision 001**: Premise selection → THE KEPLER TESTIMONIES selected
 
 ## Recent Activity
+
+### 2026-01-12
+- **Storyboard initiated** - Snowflake outlining approach adopted
+  - Created `storyboard.md` with Levels 0-2 pre-populated from foundation decisions
+  - Level 0: One-sentence premise
+  - Level 1: One-paragraph summary (5 beats)
+  - Level 2: Page summary expanding each beat
+  - Levels 3+ to be developed via skill-assisted expansion
+- **Snowflake workflow documented** - `snowflake-workflow.md` explains expansion process
+- **CLAUDE.md enhanced** - Added Skill Preferences and Automatic Skill Invocation sections
+  - Skills now trigger automatically from natural language ("expand this" → `/outline-collaborator`)
+  - Organized by domain: Outlining, Ideation, Development, Drafting
+- **Branch created**: `feature/storyboard-outline` for PR review
 
 ### 2026-01-08
 - **Foundation decisions resolved** - Director decision broke tied community votes

@@ -107,6 +107,57 @@ This project uses a tiered decision-making model to clarify authority and enable
 
 **Key Rule**: When in doubt, bias toward action. Post to the leadership queue rather than block progress.
 
+## Skill Preferences
+
+Prefer specialized skills over basic tools:
+
+| Task | Use Skill | Instead of |
+|------|-----------|------------|
+| Story state diagnosis | `/story-sense` | Ad-hoc analysis |
+| Outline development | `/outline-collaborator` | Manual structure |
+| Ideation/brainstorming | `/brainstorming` | Convergent thinking |
+| Character transformation | `/character-arc` | Generic arc writing |
+| Scene pacing | `/scene-sequencing` | Intuitive sequencing |
+| Generic elements | `/cliche-transcendence` | Accepting first ideas |
+| World-level problems | `/worldbuilding` | Surface-level fixes |
+| Prose issues | `/prose-style` | Vague "make it better" |
+
+## Automatic Skill Invocation
+
+**IMPORTANT**: When the user's request matches these patterns, invoke the skill IMMEDIATELY without asking clarifying questions first:
+
+### Outlining
+| User Says | Invoke |
+|-----------|--------|
+| "what state is the story in", "diagnose the story", "what does the story need" | `/story-sense` |
+| "expand this", "next level of detail", "snowflake this" | `/outline-collaborator` |
+| "what's wrong with this outline", "structure problems" | `/story-sense` |
+
+### Ideation
+| User Says | Invoke |
+|-----------|--------|
+| "brainstorm", "generate ideas", "more options", "diverge" | `/brainstorming` |
+| "make this fresh", "avoid clichés", "too generic", "freshen this" | `/cliche-transcendence` |
+| "story concept", "emotional core", "what genre" | `/story-idea-generator` |
+
+### Development
+| User Says | Invoke |
+|-----------|--------|
+| "character arc for [name]", "transformation arc", "arc design" | `/character-arc` |
+| "scene sequence", "pacing for this section", "scene-sequel" | `/scene-sequencing` |
+| "dialogue feels flat", "same voice problem", "fix dialogue" | `/dialogue` |
+| "ending options", "how to resolve", "weak ending" | `/endings` |
+| "world problems", "setting feels thin", "institution design" | `/worldbuilding` |
+
+### Drafting
+| User Says | Invoke |
+|-----------|--------|
+| "draft this", "write this scene", "execute the outline" | `/drafting` |
+| "prose problems", "sentence-level issues", "style check" | `/prose-style` |
+| "revision pass", "edit this", "revision guidance" | `/revision` |
+
+Skills handle their own state detection - do not duplicate that logic.
+
 ## Available Fiction Skills
 
 The following skills are available for story development:
