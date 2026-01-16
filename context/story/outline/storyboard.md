@@ -42,38 +42,46 @@ A hallway measures 12 meters in some testimonies, 15 in others. Architectural pl
 
 These aren't transcription errors. Reality was inconsistent at the level of coffee times and hallway lengths. The adjuster starts looking at the 488 "ordinary" testimonies and begins noticing smaller discrepancies that nobody else flagged...
 
-### Beat 4: The Quiet Non-Crisis
+### Beat 4: The Revelation
 
-The adjuster understands what they're seeing. They can't explain it, but they understand it: the Kepler's reality was somehow inconsistent. Multiple true things that can't all be true. The Agreement Problem, if they had to name it.
+The adjuster sees it. The pattern clicks. They understand what they're looking at.
 
-Here's the thing: they don't need to explain it. They've never needed existential closure. Their job isn't to understand reality—it's to close files. They've spent decades writing reports that make messy, contradictory things fit into forms. This is just... bigger.
+The Kepler's reality was genuinely inconsistent. Not transcription errors. Not witness confusion. Reality itself failed to agree with itself. Multiple true things that can't all be true—but are. The Agreement Problem.
+
+This is revelation. This is the mystery solving itself. They figured it out.
+
+The person they recognized—the one whose testimony they kept reading—is one of the twelve impossibles. Their account describes a hallway that measured both lengths. The adjuster knows this person wasn't lying. They know the testimony is accurate. They know it's impossible. They know it's TRUE.
+
+And now they know something no one else knows. Something no one else will believe. Something they can't prove, can't explain, can't share.
 
 Nobody at the department asks questions. Everyone's focused on the merger. The adjuster's supervisor glances at their reconciliation notes, sees "recommend archiving with discrepancy flags," and signs off. No pressure. No cover-up. Just institutional indifference to something that doesn't fit any protocol.
 
-The person they recognized—the one whose testimony they kept reading—is one of the twelve impossibles. Their account describes a hallway that measured both lengths. The adjuster knows this person wasn't lying. They know the testimony is accurate. They know it's impossible. They don't know what to do with that.
+The adjuster has solved the mystery. And there is no one to tell.
 
-### Beat 5: The Procedural Close
+### Beat 5: The Aftermath
 
-The adjuster writes their reconciliation report. They note the discrepancies. They recommend archiving with flags for "unresolved witness variance." They don't explain. They don't expose. They don't disappear into the mystery. They just do the job.
+The adjuster writes their reconciliation report. They note the discrepancies. They recommend archiving with flags for "unresolved witness variance." They know what the flags mean. No one else will.
 
 File boxed. Archive stamp. A nod from the archivist who's processed strange files before and doesn't ask questions. Walk to the car. Drive home.
 
 Dinner. Something stupid on TV. The Kepler was today. Tomorrow is something else.
 
-Maybe they'll think about it sometimes. Maybe it'll fade like old cases do. They carry no wisdom, no burden, no secret knowledge. They just closed a file that couldn't quite be closed, and life continued.
+But they know. They solved it. Reality was broken at the Kepler Stopover, and they're the only person who understands that. The uncomfortable acquaintance—the one whose testimony they kept reading—might have understood. They shared the experience. They might have been someone to talk to.
 
-The strangeness is that they're not transformed. The cosmic impossibility had no power over them. They're the same person they were before—someone who doesn't need answers, who has never needed answers, who just does the work and goes home.
+But they're gone. And even if they weren't, the relationship was never close enough for a conversation like that.
+
+The adjuster carries the answer alone. Not because they failed to find it. Because they found it, and there's no one to tell.
 
 ---
 
 ## Level 3: Act Structure
 
-Based on the deepened direction:
+Based on the mystery-honoring direction:
 
 - **Act 1: The Assignment** — Reconciliation audit lands on desk. Merger chaos. Backwater job. The uncomfortable recognition surfaces.
-- **Act 2: The Pattern** — Comparing agency files reveals the Agreement Problem. Discrepancies don't resolve. The 488 start showing cracks too.
-- **Act 3: The Non-Transformation** — The adjuster understands and doesn't need to act on it. No crisis. No pressure. Just quiet work.
-- **Act 4: The Close** — Procedural ending. File archived. Life continues. Anti-climax as the point.
+- **Act 2: The Investigation** — Comparing agency files, clues accumulate. The discrepancies form a pattern. The 488 start showing cracks too.
+- **Act 3: The Revelation** — The adjuster figures it out. The Agreement Problem is real. Reality was inconsistent. They understand. Mystery solved.
+- **Act 4: The Aftermath** — Knowing doesn't change what must be done. File archived. They go home alone with the truth. Tragedy, not anti-climax.
 
 ---
 
@@ -89,25 +97,58 @@ Based on the deepened direction:
 
 ---
 
+## Thematic Integration
+
+### Genre Commitment
+
+**Primary: Mystery.** The original pitch promises discovery, and we honor that promise. The investigator DOES solve the puzzle.
+
+**Secondary: Literary fiction.** What happens after revelation is where the literary depth lives.
+
+### The Thesis
+
+**Truth can be discovered but not transmitted.**
+
+The investigator solves the mystery—they understand the Agreement Problem is real. That's revelation. That's the mystery working. But understanding doesn't mean anyone will listen. The solution isolates rather than liberates.
+
+### How Each Beat Expresses the Thesis
+
+| Beat | Mystery Function | Literary Function |
+|------|-----------------|-------------------|
+| **1: Assignment** | Sets up the investigation | Shows institutional context, competent protagonist |
+| **2: Recognition** | Personal stakes—this matters to them | The one person who might understand is gone |
+| **3: Discrepancy** | Clues accumulate, pattern emerges | The puzzle pieces are mundane impossibilities |
+| **4: Revelation** | **The investigator figures it out** | Understanding achieved—but who can they tell? |
+| **5: Close** | Mystery solved, case filed | Knowing doesn't change what must be done. Tragedy of carrying truth alone. |
+
+### Key Structural Point
+
+**Beat 4 is REVELATION, not "non-crisis."**
+
+The investigator understands the Agreement Problem is real. Reality was genuinely inconsistent. The testimonies are all true. This is the mystery paying off.
+
+What follows is the literary question: now what? And the answer—file it, go home, carry it alone—is tragedy, not anti-climax.
+
+---
+
 ## Proposed Direction Summary
 
-This storyboard proposes a **deeply anti-genre** approach:
+This storyboard proposes a **mystery with literary depth**:
 
-| Element | Typical Mystery | This Story |
-|---------|----------------|------------|
-| Investigator | Driven seeker | Late-career, clearing desk |
-| Institution | Antagonist covering up | Indifferent, focused elsewhere |
-| Arc | Transformation through discovery | No transformation—same person after |
-| Personal connection | Lost loved one | Awkward acquaintance they didn't like |
-| Evidence | 12 curated clues | Fragmented agency flags, incomplete |
-| Ending | Revelation/choice/sacrifice | Procedural close, dinner, TV |
+| Element | Typical Mystery | This Story | Why |
+|---------|----------------|------------|-----|
+| Investigator | Driven seeker | Late-career, competent | Good enough to solve it; experienced enough to know no one will listen |
+| Investigation | Building to revelation | Same—clues accumulate | Mystery structure honored |
+| Revelation | Climactic discovery | **Yes—they figure it out** | The Agreement Problem is understood. Mystery payoff delivered. |
+| Institution | Antagonist covering up | Indifferent, no category for this | Not evil—just can't receive this kind of truth |
+| Personal connection | Lost loved one | Awkward acquaintance, now gone | The one person who might have understood. Tragedy. |
+| Ending | Action follows revelation | Quiet aftermath | Knowing doesn't change what must be done. They file it and go home alone. |
 
-**Why this works for the project:**
-- Honors "competent people facing real constraints" (taste preference)
-- Shows institutional complexity without cartoon villainy
-- The Agreement Problem lands through accumulation, not revelation
-- "All are true" paradox hits hardest when nobody can process it
-- Grounded, mundane horror of reality being wrong about coffee times
+**Why this works:**
+- Honors the mystery genre promise (discovery, revelation, understanding)
+- Adds literary depth (what happens after you solve a mystery no one can hold?)
+- The tragedy is that the mystery WORKS—they figure it out, and it doesn't help
+- "All are true" is the answer. The investigator understands it. And carries it alone.
 
 ---
 
@@ -133,7 +174,10 @@ This storyboard proposes a **deeply anti-genre** approach:
 
 ## Related Documents
 
+- [Thematic Framework](../thematic-framework.md) - Thematic thesis and meta-organizational principle
 - [Decision 003: Foundation Choices](../../decisions/003-foundation-choices.md) - Locked foundation (Stopover, Agreement Problem, investigation structure)
+- [Thematic Thesis Brainstorm](../explorations/thematic-thesis-brainstorm-2026-01-16.md) - Generated thesis options
+- [Story Sense Diagnosis](../explorations/story-sense-diagnosis-2026-01-16.md) - Identified thematic gap
 - [Plot Arc Brainstorm](../explorations/plot-arc-brainstorm-2026-01-12.md) - Original 5 divergent options
 - [Cliché Analysis](../explorations/plot-arc-cliche-analysis-2026-01-12.md) - Risk assessment and freshening
 - [Deepened Combination](../explorations/plot-arc-deepened-2026-01-12.md) - Orthogonality development
@@ -146,3 +190,5 @@ This storyboard proposes a **deeply anti-genre** approach:
 
 - **2026-01-12**: Created with Levels 0-2 pre-populated from foundation decisions
 - **2026-01-12**: Revised with deepened direction after brainstorming → cliché analysis → orthogonality pass. Proposed anti-genre approach: late-career adjuster, reconciliation audit, no transformation, procedural close.
+- **2026-01-16**: Added thematic integration responding to community feedback. Initial thesis: "Institutional competence creates loneliness."
+- **2026-01-16**: **Major revision—mystery genre honored.** Recognized that original pitch is a mystery hook that promises discovery. Revised to deliver revelation: the investigator DOES solve the puzzle, DOES understand the Agreement Problem. Beat 4 renamed from "Quiet Non-Crisis" to "The Revelation." Beat 5 renamed from "Procedural Close" to "The Aftermath." New thesis: "Truth can be discovered but not transmitted." This is mystery plus literary depth, not mystery subverted.
